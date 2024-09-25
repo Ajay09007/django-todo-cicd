@@ -1,1 +1,1 @@
-this is my first code of batch825
+"This is my first code of java" 
